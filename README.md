@@ -111,6 +111,44 @@ main
 - GPU acceleration
 - Export high-resolution renders
 
+---
+
+# Gallery
+
+## Full Mandelbrot Set
+
+![Full Mandelbrot Set](images/4K_Render_Full_Set.png)
+
+---
+
+## Baby Mandelbrot
+
+![Baby Mandelbrot](images/4K_Render_Baby_Mandelbrot_sets.png)
+
+---
+
+## Elephant Valley
+
+![Elephant Valley](images/4K_Render_Elephant_Vally.png)
+
+---
+
+## Fire Works Region
+
+![Fire Works](images/4K_Render_Fire_Works.png)
+
+---
+
+## Seahorse Valley
+
+![Seahorse Valley](images/4K_Render_Seahoese_Vally.png)
+
+---
+
+## Spiral Galaxies
+
+![Spiral Galaxies](images/4K_Render_Spiral_Galaxies.png)
+
 ## Author
 
 **V. Vidhu Krishna**
